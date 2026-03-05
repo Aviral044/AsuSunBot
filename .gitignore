@@ -1,0 +1,21 @@
+launch.json
+.DS_Store
+# Streamlit secrets (CRITICAL: Contains your Groq API Key)
+.streamlit/secrets.toml
+
+# Local environment variables (if you ever use them)
+.env
+
+# Standard Python cache files (Keeps your repository clean)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments (if you create one later)
+venv/
+env/
+
+# OS generated files (macOS/Windows junk files)
+.DS_Store
+Thumbs.db

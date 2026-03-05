@@ -1,0 +1,32 @@
+[AVATARS]
+user = "https://libapps.sjsu.edu/kingbot/app/static/user_icon.png"
+assistant = "https://libapps.sjsu.edu/kingbot/app/static/kingbot_icon.png"
+
+[ROLES]
+user = "user"
+assistant = "assistant"
+
+[main]
+title = "Kingbot GPT"
+logo = "![Kingbot](./app/static/kingbot_icon.png)"
+
+[side]
+title = "[![SJSU Library](./app/static/sjsu_library_logo.png)](https://library.sjsu.edu/)"
+intro = "KingbotGPT is an experimental python-based bot created by the university library's artificial intelligence (AI) team at San Jose State University. It is our newest model of the original After-Hours Kingbot Chatbot. Kingbot is intended to provide basic information about the library and library resources. Kingbot is not a research tool or a replacement for librarian and library staff expertise."
+policylink = "https://www.sjlibrary.org/policy/chatbot-policy"
+policylabel = "See Kingbot Policy"
+
+[button1]
+label = "SJSU Library Hours"
+content = "What are SJSU library hours all weeks"
+chip = "SC: Hours"
+
+[button2]
+label = "Start Your Research"
+content = "How do I start my research"
+chip = "SC: ResearchStart"
+
+[button3]
+label = "Borrow A Laptop"
+content = "How do I borrow a laptop from SJSU library"
+chip = "SC: BorrowLaptop"
