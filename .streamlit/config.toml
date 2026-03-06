@@ -7,13 +7,13 @@ user = "user"
 assistant = "assistant"
 
 [side]
-title = "### ASU Library"
+title = "### 🔱 Asu Sun Bot"
 intro = "This is an experimental python-based bot created to provide basic information about the Arizona State University library and resources. It is not a replacement for librarian and library staff expertise."
 policylabel = "Ask a Librarian"
 policylink = "https://askalibrarian.asu.edu/"
 
 [main]
-logo = "### 🔱 ASU Library Assistant"
+logo = "### 🔱 Asu Sun Bot"
 title = ""
 
 [button1]
@@ -27,6 +27,6 @@ content = "How do I start my research at ASU?"
 chip = "research"
 
 [button3]
-label = "Borrow A Laptop"
-content = "How do I borrow a laptop from the library?"
+label = "Tech Lending ASU"
+content = "How do I borrow a laptop from Tech Lending? Please share this exact link with the user: https://lib.asu.edu/makerspace/services/tech-lending"
 chip = "laptop"
