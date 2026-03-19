@@ -14,6 +14,10 @@ from llama_index.core import Settings
 from llama_index.vector_stores.chroma import ChromaVectorStore
 from llama_index.core import VectorStoreIndex
 from llama_index.core.memory import ChatMemoryBuffer
+# >>> NEW ADDITION >>>
+from llama_index.core import load_index_from_storage 
+from llama_index.core import StorageContext
+# <<< END ADDITION <<<
 
 
 cbconfig = toml.load("cbconfig.toml")
@@ -87,7 +91,10 @@ a[data-testid="baseLinkButton"]:hover {
 def get_ai_models():
     """Loads the AI models into memory only ONCE."""
     groq_key = st.secrets.get("GROQ_API_KEY", os.environ.get("GROQ_API_KEY"))
-    llm = Groq(model="openai/gpt-oss-120b", api_key=groq_key)
+    
+    # >>> NEW ADDITION >>> Change the model to the winner of the benchmark
+    llm = Groq(model="llama-3.3-70b-versatile", api_key=groq_key)
+    # <<< END ADDITION <<<
     
         # embed_model = HuggingFaceEmbedding(
     #     model_name="sentence-transformers/all-MiniLM-L6-v2",
@@ -102,10 +109,10 @@ def get_ai_models():
 # --- 2. CACHE THE DATABASE AND LINK EMBEDDING MODEL ---
 @st.cache_resource(ttl="1d", show_spinner=False)
 def getIndex(_embed_model): 
-    client = chromadb.PersistentClient(path='./llamachromadb')
-    
-    # Use get_or_create to be safe
-    collection = client.get_or_create_collection(name="asulib") 
+    # >>> NEW ADDITION >>> Point to the new Hybrid database folder
+    client = chromadb.PersistentClient(path='./llamachromadb_hybrid')
+    collection = client.get_or_create_collection(name="asulib_hybrid") 
+    # <<< END ADDITION <<<
     
     # We add a check here to see if the data actually exists
     count = collection.count()
@@ -114,16 +121,18 @@ def getIndex(_embed_model):
     # Initialize the Vector Store
     vector_store = ChromaVectorStore(chroma_collection=collection)
     
-    # Create the index from the existing vector store
-    # We use a StorageContext to ensure LlamaIndex maps the fields correctly
-    from llama_index.core import StorageContext
-    storage_context = StorageContext.from_defaults(vector_store=vector_store)
+    # >>> NEW ADDITION >>> Load the Hybrid Storage Context and Index
+    storage_context = StorageContext.from_defaults(
+        persist_dir='./llamachromadb_hybrid',
+        vector_store=vector_store
+    )
     
-    index = VectorStoreIndex.from_vector_store(
-        vector_store,
+    index = load_index_from_storage(
         storage_context=storage_context,
         embed_model=_embed_model
     )
+    # <<< END ADDITION <<<
+    
     return index
 
 def getBot(memory):    
@@ -144,7 +153,9 @@ def getBot(memory):
         f"3. Use up to two emojis when applicable. \n"
         f"4. Provide relevant search terms if asked. \n"
         f"5. Avoid providing information about celebrities, influential politicians, or state heads. \n"
-        f"6. Keep responses detailed as possible\n"
+        # >>> NEW ADDITION >>> The updated rule #6 from your benchmark success
+        f"6. Answer fully using the provided context, but be concise if the context is short.\n"
+        # <<< END ADDITION <<<
         f"7. For unanswerable research questions, include the 'Ask A Librarian' URL: https://askalibrarian.asu.edu/ \n"
         f"8. Do not make assumptions or fabricate answers or URLs. \n"
         f"9. Use ONLY the retrieved context. If the database is insufficient, say you don't know and refer users to Ask a Librarian. \n"
@@ -161,7 +172,11 @@ def getBot(memory):
         memory=memory,
         llm=my_llm, # <-- EXPLICITLY set the LLM here!
         system_prompt=system_prompt,
-        verbose=False,    
+        verbose=False,
+        # >>> NEW ADDITION >>> Activate Hybrid Search
+        vector_store_query_mode="hybrid", 
+        sparse_top_k=2 
+        # <<< END ADDITION <<<
     )
     
     return chat_engine

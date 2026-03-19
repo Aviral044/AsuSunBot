@@ -1,0 +1,571 @@
+user_input,retrieved_contexts,response,reference,faithfulness,answer_relevancy,context_precision,context_recall
+What is plagiarism and how can I prevent it?,"['FAQ Question: What is plagiarism and how can I prevent it?\n\nFAQ Answer:\nTake a look at our library guide search results on Academic Integrity . It includes valuable information plus links to additional resources to help you! We also have tutorials about these topics: Academic Integrity Plagiarism Awareness', 'FAQ Question: Do you have any tutorials about citing sources?\n\nFAQ Answer:\nNeed to learn about citing sources? Here is a list of tutorials designed by our experts to get you started... Academic Integrity APA Citation Style Citing Your Sources MLA Citation Style Plagiarism Awareness And we have more tutorials to help you! Tutorials web page']","Plagiarism is when you use someone else’s ideas, words, or work without giving them proper credit. It’s considered a breach of academic integrity because it presents another person’s intellectual property as your own.
+
+**How you can prevent plagiarism**
+
+1. **Explore the Academic Integrity guide** – The ASU Library’s guide on Academic Integrity (search “Academic Integrity” in the library guide) provides a solid overview of what counts as plagiarism and why it matters.  
+
+2. **Use the Plagiarism‑Awareness tutorial** – The library offers a specific “Plagiarism Awareness” tutorial that walks you through common pitfalls and shows you how to keep your work original.  
+
+3. **Cite sources correctly** – While this FAQ doesn’t list the citation tutorials, the library also has tutorials on APA, MLA, and other citation styles that teach you how to give proper attribution.  
+
+4. **Check your work with a plagiarism checker** – Many ASU resources (e.g., Turnitin) let you run a draft through a similarity report so you can spot any uncited material before you submit.  
+
+5. **Ask a librarian for help** – If you’re unsure about whether something needs a citation or how to paraphrase correctly, you can always reach out through the “Ask a Librarian” service for personalized guidance.
+
+By reviewing the Academic Integrity guide and completing the Plagiarism Awareness tutorial, you’ll get the tools you need to avoid accidental plagiarism and maintain the highest standards of scholarly honesty. If you need more detailed instructions or have a specific situation in mind, feel free to ask a librarian for further assistance.",Take a look at our library guide search results on Academic Integrity . It includes valuable information plus links to additional resources to help you! We also have tutorials about these topics: Academic Integrity Plagiarism Awareness,0.0,0.8774763285894206,0.99999999995,1.0
+Can I use Respondus Lockdown Browser on library computers?,"['FAQ Question: Can I use Respondus Lockdown Browser on library computers?\n\nFAQ Answer:\nYes, the Respondus Lockdown Browser is installed on all public library computers at all of our library locations, as well as on computers managed at ASU computing sites. To access it, you need to follow these instructions : In the Windows Search bar in the bottom left corner of the screen, search for ""Lockdown"" (note: searching for ""Respondus"" will not work.) Click on the link for ""Lockdown Browser - Lab Edition"" A ""Choose Server"" pop-up window will appear - select ""Canvas at ASU"" from the drop-down menu. Log in with your ASURITE ID and password when prompted. Your browser should now be locked and you should see your Canvas courses. Navigate to the appropriate course and quiz/test. To exit the Lockdown Browser, click on the red X in the top right hand corner and answer the prompt as appropriate. Please note that all applications, including Lockdown Browser, are managed by the University Technology Office, not ASU Library. If you have questions or are experiencing technical difficulties using the Lockdown Browser, please contact the UTO Experience Center .', 'FAQ Question: Technical support...details that help us troubleshoot your technical issues...\n\nFAQ Answer:\nWhen submitting a ticket\xa0about a technical problem with ASU Library resources , please include as much detail as possible. The following information is especially helpful: Are you at home, at work, or on campus when the difficulty occurs? Are you logged into your ASUrite account? What Operating System are you using? (Windows 8, macOS 10.12, etc.) What Browser and Version Number are you using? (Internet Explorer 11, Firefox 52.2.1esr, etc.) Description of the steps you followed and at which screen the problem or error message appeared What is the URL (http://...) at the point of the error? Exact wording of any error messages Any screenshots that you may think would be helpful A telephone number where you may be reached during business hours In the meantime, here are a few things to try: Switch to a different browser (one may work better than another for a particular database or application: Firefox, Chrome, Internet Explorer, etc.) If you are coming in through MyASU, try starting from the library home page https://lib.asu.edu and then make sure you are signed in at the top right corner of the library page.']","Yes—you can use Respondus Lockdown Browser on any public library computer at ASU’s library locations (as well as on computers managed at other ASU computing sites).
+
+**How to launch it**
+
+1. **Find the program**  
+   - In the Windows Search bar (lower‑left corner of the screen) type **“Lockdown.”**  
+   - *Do not* search for “Respondus,” because that won’t return the correct shortcut.  
+
+2. **Open the correct entry**  
+   - Click the link labeled **“Lockdown Browser – Lab Edition.”**  
+
+3. **Select your server**  
+   - A “Choose Server” pop‑up will appear.  
+   - From the drop‑down menu choose **“Canvas at ASU.”**  
+
+4. **Log in**  
+   - When prompted, enter your **ASURITE ID** and password.  
+
+5. **Navigate to your course**  
+   - The browser will lock and display your Canvas courses.  
+   - Open the appropriate course and go to the quiz or test that requires Lockdown Browser.  
+
+6. **Exiting**  
+   - When you’re finished, click the **red X** in the top‑right corner and respond to the exit prompt as instructed.
+
+**If you run into technical problems**
+
+All applications on library computers—including Respondus Lockdown Browser—are managed by the University Technology Office (UTO), not the ASU Library. For assistance, contact the **UTO Experience Center**.
+
+**Quick troubleshooting checklist (if you need to open a support ticket)**  
+
+- Are you on campus, at work, or at home?  
+- Are you logged into your ASURITE account?  
+- What operating system are you using (e.g., Windows 10, macOS 12)?  
+- Which browser and version are you using (if you need to switch browsers)?  
+- Describe the steps you took and where the error occurred.  
+- Provide the exact URL and any error‑message wording.  
+- Include screenshots if possible.  
+- Provide a phone number where you can be reached during business hours.
+
+If you need further help, you can also submit a ticket through the **Ask a Librarian** portal or start from the library home page at https://lib.asu.edu and make sure you’re signed in at the top right.","Yes, the Respondus Lockdown Browser is installed on all public library computers at all of our library locations, as well as on computers managed at ASU computing sites. To access it, you need to follow these instructions : In the Windows Search bar in the bottom left corner of the screen, search for ""Lockdown"" (note: searching for ""Respondus"" will not work.) Click on the link for ""Lockdown Browser - Lab Edition"" A ""Choose Server"" pop-up window will appear - select ""Canvas at ASU"" from the drop-down menu. Log in with your ASURITE ID and password when prompted. Your browser should now be locked and you should see your Canvas courses. Navigate to the appropriate course and quiz/test. To exit the Lockdown Browser, click on the red X in the top right hand corner and answer the prompt as appropriate. Please note that all applications, including Lockdown Browser, are managed by the University Technology Office, not ASU Library. If you have questions or are experiencing technical difficulties using the Lockdown Browser, please contact the UTO Experience Center .",0.9166666666666666,0.9453313089597567,0.9999999999,1.0
+My instructor wants us to use credible sources. How do I know what's good?,"[""FAQ Question: My instructor wants us to use credible sources. How do I know what's good?\n\nFAQ Answer:\nMany instructors want you to use factual information that appears in reputable scholarly journals or books rather than opinions or unreliable sources found online from an unknown party.\xa0 Most of our library databases let you limit your search to scholarly resources, but even those can include opinionated sections that may not be what your instructor wants. First, make sure you know what types of resources are acceptable for your assignment!\xa0 Sometimes newspaper articles are acceptable, but sometimes they are not! Book reviews in a scholarly journal may be ok, but maybe not! So check with your instructor or check your syllabus for specific resource types that are allowed or not allowed. Need to learn how to evaluate resources? Read the script or view the tutorial about Evaluating Resources!"", 'FAQ Question: Do you have any tutorials about citing sources?\n\nFAQ Answer:\nNeed to learn about citing sources? Here is a list of tutorials designed by our experts to get you started... Academic Integrity APA Citation Style Citing Your Sources MLA Citation Style Plagiarism Awareness And we have more tutorials to help you! Tutorials web page']","When your instructor asks you to use **credible sources**, the goal is to base your work on reliable, scholarly information rather than personal opinions or unverified material you might find on the open web. Here’s a step‑by‑step guide to help you determine what’s “good” for your assignments:
+
+### 1. Start with the Assignment Guidelines  
+1. **Read the syllabus or assignment sheet carefully.**  
+   - Look for any explicit statements about the types of sources that are allowed (e.g., “peer‑reviewed journal articles,” “books published by academic presses,” “newspaper articles,” etc.).  
+2. **Ask your instructor if anything is unclear.**  
+   - If you’re unsure whether a particular source type (like a book review or a newspaper editorial) is acceptable, a quick email or office‑hours question can save you time later.
+
+### 2. Use the Library’s Scholarly Databases  
+- **Limit your search to “scholarly” or “peer‑reviewed” materials.** Most of ASU Library’s databases have a filter you can turn on that restricts results to scholarly resources.  
+- **Be aware that even scholarly journals can contain opinion pieces** (e.g., editorials, commentaries). If your instructor wants strictly research‑based evidence, look for articles labeled as “research articles,” “original studies,” or “review articles.”
+
+### 3. Evaluate Each Source (Even When It’s Scholarly)  
+The library offers a short tutorial on **Evaluating Resources** that walks you through the classic CRAAP test (Currency, Relevance, Authority, Accuracy, Purpose). Here’s a quick checklist you can apply:
+
+| Criterion | What to Look For |
+|-----------|------------------|
+| **Currency** | Publication date—Is the information up‑to‑date for your topic? |
+| **Relevance** | Does the source directly address your research question? |
+| **Authority** | Who is the author? Are they an expert in the field (e.g., professor, researcher, professional organization)? |
+| **Accuracy** | Are the claims supported by evidence, citations, or data? Is the methodology sound? |
+| **Purpose** | Is the work intended to inform, persuade, sell, or entertain? Scholarly works aim to inform and advance knowledge. |
+
+If a source checks most or all of these boxes, it’s likely a solid choice.
+
+### 4. Commonly Accepted Credible Source Types  
+- **Peer‑reviewed journal articles** (research reports, systematic reviews, meta‑analyses)  
+- **Books and monographs** published by academic presses (e.g., Oxford University Press, Springer)  
+- **Conference proceedings** from reputable scholarly societies  
+- **Government publications** (e.g., reports from the CDC, EPA)  
+- **Professional organization reports** (e.g., IEEE, American Psychological Association)  
+
+### 5. Sources That May Need Extra Scrutiny  
+- **Newspaper articles** – Often acceptable for current‑events context, but verify the author’s credentials and the newspaper’s reputation.  
+- **Book reviews** – Useful for understanding scholarly reception, but they are not primary research.  
+- **Editorials or opinion pieces** – Generally not suitable unless your assignment explicitly calls for multiple perspectives.  
+
+### 6. Where to Find Tutorials & Help  
+- **Evaluating Resources tutorial** – Walks you through the CRAAP test and gives examples of good vs. weak sources.  
+- **Citing Sources tutorials** – Once you’ve selected credible material, you’ll also need to cite it correctly (APA, MLA, etc.). The library’s “Citing Your Sources” tutorial can guide you through that process.  
+
+### 7. When You’re Still Unsure  
+If after checking the guidelines, filters, and evaluation criteria you’re still not confident about a source, you can:
+
+1. **Ask a librarian** via the “Ask a Librarian” service – they can quickly confirm whether a source meets your instructor’s expectations.  
+2. **Consult a peer mentor** or writing center for a second opinion on source credibility.  
+
+---
+
+**Bottom line:**  
+1. **Know what your instructor expects** (check the syllabus or ask).  
+2. **Use the library’s scholarly databases and apply the “scholarly” filter.**  
+3. **Evaluate each source with the CRAAP criteria** (or the library’s Evaluating Resources tutorial).  
+4. **When in doubt, reach out to a librarian** for confirmation.
+
+Good luck with your research, and feel free to let me know if you need help locating specific databases or navigating the evaluation tutorial!","Many instructors want you to use factual information that appears in reputable scholarly journals or books rather than opinions or unreliable sources found online from an unknown party.  Most of our library databases let you limit your search to scholarly resources, but even those can include opinionated sections that may not be what your instructor wants. First, make sure you know what types of resources are acceptable for your assignment!  Sometimes newspaper articles are acceptable, but sometimes they are not! Book reviews in a scholarly journal may be ok, but maybe not! So check with your instructor or check your syllabus for specific resource types that are allowed or not allowed. Need to learn how to evaluate resources? Read the script or view the tutorial about Evaluating Resources!",0.35294117647058826,0.8121050773485938,0.9999999999,1.0
+How do I add people outside of ASU to manage my ASU Research Data Repository datasets?,"['FAQ Question: How do I add people outside of ASU to manage my ASU Research Data Repository datasets?\n\nFAQ Answer:\nWith our current ASU Research Data Repository authentication process, only submitters with asu.edu emails can create an account. Anyone outside the university can view and access published collections (known as Dataverses), but\xa0cannot directly submit/deposit or manage the metadata. If you have members of your project outside of ASU, you can have them submit their datasets and documentation to a secure sharing space like Google Drive or Dropbox and then upload the files on their behalf. If more direct interaction is desired, ASU sponsors can request that collaborators get an “affiliate ID” (ASURITE) to access ASU systems. The ID expires after one year and has to be renewed by the ASU sponsor at that time. To sponsor and request an ASU ID for your collaborators, fill out the ASU Courtesy Affiliate Request - Add or Renew form . Additional workarounds for research teams may include using the Dataverse API , research notebooks like LabArchives , or the OSF as a collaboration platform, and connecting the OSF to Dataverse (which uses an API token). For information on adding co-owners, see our FAQ entry on adding users or co-owners to my datasets .', 'FAQ Question: How do I add users or co-owners to my datasets in the ASU Research Data Repository?\n\nFAQ Answer:\nWe are using ASU single sign-on as the only method for signing in, and users add their accounts. Library admins cannot add them before they sign in for the first time, and users have read-only access when they are initially added. ASU Library staff provide permissions. Please contact the library and notify us which user you need added, after they have signed into the repository explorer page for the first time. Accounts are created at the time of first sign-in, and after that, the library repository administration team can add them to the account with the appropriate permission levels and even assign them to groups. If you only want\xa0to list someone\xa0as an author, but not grant permissions to manage your datasets, add their name in the metadata author fields and there is no need for them to sign into the repository. In a nutshell: You invite contributors by giving them the repository link, and they sign in to create an account, and then you request that we grant them access.\xa0The library cannot create accounts for them before they sign in. See Roles and Permissions in the Dataverse Platform Users Guide']","To add collaborators who are **not** affiliated with ASU so that they can **manage** (i.e., submit, edit, or control permissions for) datasets in the ASU Research Data Repository (RDR), you’ll need to work around the current authentication rules. Here’s a step‑by‑step guide based on the library’s official FAQ:
+
+---
+
+## 1. Understand the default limitation
+- **Only users with an asu.edu email address can create an RDR account** and therefore can directly submit or manage datasets.
+- External collaborators can **view and download** any published Dataverse (collection), but they **cannot** log in to create, edit, or manage datasets on their own.
+
+---
+
+## 2. Options for giving external collaborators “manager‑level” access
+
+### A. Use an **ASU Courtesy Affiliate (ASURITE) ID**
+1. **Ask the ASU sponsor (you) to submit a request** for an affiliate ID for each external collaborator.  
+2. Fill out the **ASU Courtesy Affiliate Request – Add or Renew form** (the exact URL is provided in the FAQ).  
+3. Once the affiliate ID is issued, the collaborator receives an **ASURITE username** that works with ASU Single Sign‑On, letting them log in to the RDR just like any other ASU user.  
+4. **Note:** Affiliate IDs are **valid for one year** and must be renewed by the sponsor when they expire.
+
+### B. Have the external collaborator **send files to you** for upload
+1. Set up a **secure sharing space** (e.g., Google Drive, Dropbox, Box) where the external partner can drop their raw data and documentation.  
+2. After you receive the files, **upload them to the RDR on their behalf** using your own ASU account.  
+3. You can then add the external person as a **co‑owner or contributor** (see the “add users or co‑owners” FAQ) so they appear in the metadata and have appropriate permissions.
+
+### C. Leverage **API‑based or third‑party collaboration platforms**
+- **Dataverse API:** You (or a developer) can script uploads and metadata edits via the API, using an API token tied to an ASU account. This lets you automate the process of adding external data without giving them a direct login.  
+- **Research notebooks / collaboration tools:** Platforms such as **LabArchives** or the **Open Science Framework (OSF)** can serve as a shared workspace. You can connect OSF to Dataverse using an API token, allowing external collaborators to work in OSF while you push the final dataset to RDR.  
+
+---
+
+## 3. Adding the external collaborator as a co‑owner (once they have an ASU/affiliate account)
+
+1. **Invite the collaborator** by sending them the repository link.  
+2. They must **sign in for the first time** (using their ASU or affiliate credentials).  
+3. After their first sign‑in, contact the **ASU Library repository administration team** (via the “Ask a Librarian” portal or the library help desk) and request that they **grant the appropriate permission level** (e.g., “Contributor,” “Editor,” or “Owner”).  
+4. If you only need to list them as an author without giving management rights, simply add their name in the **metadata author fields**—no account is required.
+
+---
+
+## 4. Summary of steps you’ll likely follow
+
+| Goal | How to achieve it |
+|------|-------------------|
+| **Give external partner full management rights** | Request an **ASU Courtesy Affiliate ID** for them, then add them as a co‑owner after they sign in. |
+| **Allow external partner to contribute data without an account** | Have them upload files to a **secure shared folder** (Google Drive/Dropbox) and you upload to RDR; then add them as a co‑owner or author in the metadata. |
+| **Automate or script contributions** | Use the **Dataverse API** or connect via **OSF/LabArchives** with an API token; you retain the ASU account while the external partner works in the external platform. |
+
+---
+
+## 5. Need more help?
+
+If any part of this process is unclear, or you need the exact link to the **ASU Courtesy Affiliate Request – Add or Renew** form, please reach out through **Ask a Librarian** (https://askalibrarian.asu.edu) or contact the **ASU Library Data Services team**. They can walk you through the affiliate request and the permission‑granting workflow.","With our current ASU Research Data Repository authentication process, only submitters with asu.edu emails can create an account. Anyone outside the university can view and access published collections (known as Dataverses), but cannot directly submit/deposit or manage the metadata. If you have members of your project outside of ASU, you can have them submit their datasets and documentation to a secure sharing space like Google Drive or Dropbox and then upload the files on their behalf. If more direct interaction is desired, ASU sponsors can request that collaborators get an “affiliate ID” (ASURITE) to access ASU systems. The ID expires after one year and has to be renewed by the ASU sponsor at that time. To sponsor and request an ASU ID for your collaborators, fill out the ASU Courtesy Affiliate Request - Add or Renew form . Additional workarounds for research teams may include using the Dataverse API , research notebooks like LabArchives , or the OSF as a collaboration platform, and connecting the OSF to Dataverse (which uses an API token). For information on adding co-owners, see our FAQ entry on adding users or co-owners to my datasets .",0.7777777777777778,0.9224991822441019,0.9999999999,1.0
+Does ASU offer any plagiarism checkers?,"['FAQ Question: Does ASU offer any plagiarism checkers?\n\nFAQ Answer:\nASU currently uses Turnitin (TII) as part of the Canvas Classroom Management Software. Instructors - Turnitin must be activated for each assignment. Check ASU’s How to Enable Turnitin for Online Assignments information page! Students - Check your assignment in Canvas to see if Turnitin has been activated.', 'FAQ Question: What is plagiarism and how can I prevent it?\n\nFAQ Answer:\nTake a look at our library guide search results on Academic Integrity . It includes valuable information plus links to additional resources to help you! We also have tutorials about these topics: Academic Integrity Plagiarism Awareness']","Yes—Arizona State University provides a plagiarism‑checking tool through **Turnitin**.  
+
+**How it works**
+
+* **Turnitin is built into Canvas**, the university’s classroom‑management platform.  
+* **Instructors** must turn the Turnitin feature on for each individual assignment.  They can follow the university’s “How to Enable Turnitin for Online Assignments” guide (available on the ASU website) to set it up.  
+* **Students** simply need to look at the assignment details in Canvas; if Turnitin has been activated, your submission will be automatically checked for similarity when you submit.
+
+If you’re an instructor and need step‑by‑step instructions, or if you have any trouble locating the Turnitin option in Canvas, you can consult the “How to Enable Turnitin for Online Assignments” page or reach out through **Ask a Librarian** for additional help.",ASU currently uses Turnitin (TII) as part of the Canvas Classroom Management Software. Instructors - Turnitin must be activated for each assignment. Check ASU’s How to Enable Turnitin for Online Assignments information page! Students - Check your assignment in Canvas to see if Turnitin has been activated.,0.75,0.8798441300161661,0.9999999999,1.0
+What is the web address (URL) for the ASU Library Catalog?,"[""FAQ Question: What is the web address (URL) for the ASU Library Catalog?\n\nFAQ Answer:\nFrom either of these URL locations, use the large search box's dropdown to select : ASU Library Catalog https://search.lib.asu.edu https://lib.asu.edu"", 'FAQ Question: What is the address of the ASU Library?\n\nFAQ Answer:\nAddresses (mailing and physical addresses) for ASU Library locations can be found online at: https://lib.asu.edu/locations']","The ASU Library Catalog can be accessed through either of the following web addresses:
+
+- **https://search.lib.asu.edu** – This is the primary search portal where you can use the large search box’s dropdown menu to select “ASU Library Catalog.”
+- **https://lib.asu.edu** – This is the main library homepage; from there you can also navigate to the catalog using the same dropdown in the search box.
+
+Both URLs will take you to the same catalog search interface. If you need further assistance locating specific resources or using the catalog, feel free to let me know!","From either of these URL locations, use the large search box's dropdown to select : ASU Library Catalog https://search.lib.asu.edu https://lib.asu.edu",0.5555555555555556,0.9141477545146819,0.9999999999,1.0
+Do you have any tutorials about general research skills?,"['FAQ Question: Do you have any tutorials about general research skills?\n\nFAQ Answer:\nNeed to learn about general research skills? Here is a list of tutorials designed by our experts to get you started... Developing a Research Question Evaluating Resources Finding and Using Background Research Generating and Using Keywords Introduction to ASU Library Introduction to University Research PICO: Research Questions for Health Sciences Research Guidance Topic Identification and Selection And we have more tutorials to help you! Tutorials web page', 'FAQ Question: Where can I find online tutorials?\n\nFAQ Answer:\nDo you need self-paced instruction? Try our Library Tutorials online at: http://lib.asu.edu/tutorials . These tutorials cover a variety of topics such as: General research skills; How to find\xa0articles; How to find peer-reviewed / scholarly articles; The importance of citing your sources; How to cite sources; and How to use our\xa0databases.']","Absolutely! The ASU Library offers a whole suite of self‑paced tutorials that cover general research skills and more. Here’s a quick overview of the tutorials that focus specifically on building strong research foundations:
+
+| Tutorial | What You’ll Learn |
+|----------|-------------------|
+| **Developing a Research Question** | How to craft clear, focused, and researchable questions that guide your project. |
+| **Evaluating Resources** | Strategies for assessing the credibility, relevance, and authority of sources. |
+| **Finding and Using Background Research** | Techniques for locating foundational literature and contextual information. |
+| **Generating and Using Keywords** | How to select effective search terms and combine them for optimal results. |
+| **Introduction to ASU Library** | A walkthrough of the library’s services, tools, and support resources. |
+| **Introduction to University Research** | Overview of the research process, from planning to dissemination. |
+| **PICO: Research Questions for Health Sciences** | A step‑by‑step guide to formulating clinical research questions using the PICO framework. |
+| **Topic Identification and Selection** | Tips for narrowing down a broad area into a manageable, research‑ready topic. |
+| **…and many more** | Additional tutorials cover everything from citation basics to advanced database searching. |
+
+You can explore all of these tutorials (and the full list of available modules) on the Library’s tutorial hub:
+
+**Tutorials web page:** <http://lib.asu.edu/tutorials>
+
+That page is the central location for all self‑paced instruction, so you can start any tutorial at any time and work through it at your own pace. If you need help navigating the site or have a specific research question, feel free to reach out to a librarian through the **Ask a Librarian** service—​they’re happy to guide you further. Happy researching!",Need to learn about general research skills? Here is a list of tutorials designed by our experts to get you started... Developing a Research Question Evaluating Resources Finding and Using Background Research Generating and Using Keywords Introduction to ASU Library Introduction to University Research PICO: Research Questions for Health Sciences Research Guidance Topic Identification and Selection And we have more tutorials to help you! Tutorials web page,0.25,0.8194537811273886,0.99999999995,1.0
+Are there due dates or fees for interlibrary loan items? Can I renew ILL items?,"['FAQ Question: Are there due dates or fees for interlibrary loan items? Can I renew ILL items?\n\nFAQ Answer:\nYes, interlibrary loan items have due dates and overdue fees.\xa0 These differ depending on the item type and library who is lending the item to you. Due dates For physical items, you can check the due date on the strap attached to the item, or through your ILLiad account .\xa0 The average loan period for most physical items is between 4 and 8 weeks. Electronically delivered items like articles and ebooks do not need to be returned.\xa0 Your access will automatically expire after 60 days. Overdue fees Most ILL items are free to request, receive, and return. For interlibrary loan items that are not returned by the due date, there is a \xa0there is a $5 per day late fee with a maximum overdue fee of $25, and a default $150.00 replacement fee.\xa0The replacement fee may be adjusted depending on the actual cost of the item billed by the library who owns the item.\xa0 We have a high overdue fee as many libraries will block us from requesting any materials when their items are returned late. Home Delivery items are shipped FedEx 2 Day, and include a FedEx Ground return label.\xa0 You are responsible for overdue, damaged, and lost items. Renewals Renewals are usually not available for interlibrary loan items.\xa0To have ILL staff negotiate an extension on a due date with the owning library, please contact us prior to the due date on the item. For more information, contact the ASU Library Interlibrary Loan Department (Monday-Friday, 8am-5pm): (480) 965-3282 Email: ASU-ILL@asu.edu libguides.asu.edu/ill', 'FAQ Question: What items can I request through interlibrary loan? What can’t I request?\n\nFAQ Answer:\nYou can request these types of items through interlibrary loan: Books Book chapters (up to 3 per book) Journal articles (up to 3 per journal issue) Government documents Theses and dissertations Some media (CDs, DVDs) Some ebooks These items are not available to request: Textbooks Items for personal/non-academic use Entire journal issues Some media (CDs, DVDs) Some ebooks There is no limit to the amount of requests you can submit.\xa0 However, we recommend that you only request materials you can use in a reasonable amount of time to avoid overdue fees.\xa0 Renewals are not usually available. For more information, contact the ASU Library Interlibrary Loan Department (Monday-Friday, 8am-5pm): (480) 965-3282 Email: ASU-ILL@asu.edu libguides.asu.edu/ill']","**Due dates**
+
+- **Physical items** (books, book chapters, DVDs, CDs, etc.) have a set due date that you can see on the strap attached to the item or by logging into your ILLiad account.  
+- The typical loan period for most physical items is **4 – 8 weeks**, depending on the lending library’s policies.  
+- **Electronically delivered items** (journal articles, e‑books, etc.) do not need to be returned. Your access automatically expires after **60 days**.
+
+**Overdue fees**
+
+- Most ILL items are free to request, receive, and return, but if a physical item is not returned by its due date you will be charged **$5 per day**.  
+- The daily charge caps at **$25 total** in overdue fees.  
+- In addition, there is a **default replacement fee of $150** (the amount may be adjusted to reflect the actual cost of the item as billed by the owning library).  
+- For Home‑Delivery items (shipped FedEx 2‑Day), a FedEx Ground return label is included, but you are still responsible for any overdue, damaged, or lost items.
+
+**Renewals**
+
+- **Renewals are generally not available** for interlibrary‑loan items.  
+- If you need more time, you must have ILL staff **negotiate an extension with the owning library**. To do this, contact the ILL department **before the item’s due date**.
+
+**How to get help**
+
+- **Phone:** (480) 965‑3282 (Monday – Friday, 8 am – 5 pm)  
+- **Email:** ASU‑ILL@asu.edu  
+- **More information:** https://libguides.asu.edu/ill  
+
+If you have any other questions or need assistance with a specific request, feel free to reach out to the Interlibrary Loan Department using the contact information above.","Yes, interlibrary loan items have due dates and overdue fees.  These differ depending on the item type and library who is lending the item to you. Due dates For physical items, you can check the due date on the strap attached to the item, or through your ILLiad account .  The average loan period for most physical items is between 4 and 8 weeks. Electronically delivered items like articles and ebooks do not need to be returned.  Your access will automatically expire after 60 days. Overdue fees Most ILL items are free to request, receive, and return. For interlibrary loan items that are not returned by the due date, there is a  there is a $5 per day late fee with a maximum overdue fee of $25, and a default $150.00 replacement fee. The replacement fee may be adjusted depending on the actual cost of the item billed by the library who owns the item.  We have a high overdue fee as many libraries will block us from requesting any materials when their items are returned late. Home Delivery items are shipped FedEx 2 Day, and include a FedEx Ground return label.  You are responsible for overdue, damaged, and lost items. Renewals Renewals are usually not available for interlibrary loan items. To have ILL staff negotiate an extension on a due date with the owning library, please contact us prior to the due date on the item. For more information, contact the ASU Library Interlibrary Loan Department (Monday-Friday, 8am-5pm): (480) 965-3282 Email: ASU-ILL@asu.edu libguides.asu.edu/ill",0.9333333333333333,0.8389016366135426,0.99999999995,1.0
+I will be graduating soon. How will that affect my due dates for library materials?,"['FAQ Question: I will be graduating soon. How will that affect my due dates for library materials?\n\nFAQ Answer:\nCongratulations on your graduation from ASU! Due dates: Graduation will not affect the due dates of materials checked out on your library account, even if they are due after graduation. Just remember, once you graduate, you will not be able to renew your library items. Library fees/fines: Yes, delinquent fees for library materials may affect graduation . Library billing contacts, policies, appeals, etc.', ""FAQ Question: When I tried to renew my library books, it gave me today as the due date. What's wrong?\n\nFAQ Answer:\nPlease take another look! Your books could be due next year ! If you renewed your books today and it shows today as the due date: Perhaps our library system thinks today is your last day with ASU (as student, faculty or staff). Contact us! so we can check our records!""]","Congratulations on your upcoming graduation! Here’s what you need to know about how graduation impacts the items you currently have checked out from the ASU Library:
+
+1. **Due dates stay the same** – Any library materials you’ve already borrowed will keep the original due date that was set when you checked them out. This means that even if the due date falls after you’ve officially graduated, you are still expected to return the items by that date.
+
+2. **No more renewals after graduation** – Once your ASU status changes to “graduated,” the system will no longer allow you to renew any of your checked‑out items. If you anticipate needing more time with a particular item, it’s a good idea to renew it **before** your graduation date.
+
+3. **Delinquent fees can affect graduation** – Outstanding fines or fees for overdue or lost items may be reported to the university’s billing office and could potentially hold up the processing of your diploma. It’s best to settle any library balances before you graduate.
+
+4. **What to do if you have questions** – If you notice any unusual due‑date behavior (for example, a due date that shows as today) or you need help confirming your renewal eligibility, contact the library directly. The staff can verify your account status and make sure everything is in order.
+
+**Quick checklist before you graduate**
+
+- **Check your current due dates** in the library portal and note any items that are due after your graduation date.  
+- **Renew any items you’ll need longer** before your graduation day.  
+- **Return or pay for any overdue items** to avoid fines that could impact your diploma.  
+- **Verify your contact information** so the library can reach you if there are any issues.
+
+If you run into any problems or have additional questions, feel free to reach out to the ASU Library via the “Ask a Librarian” service or visit a circulation desk. Good luck with your graduation!","Congratulations on your graduation from ASU! Due dates: Graduation will not affect the due dates of materials checked out on your library account, even if they are due after graduation. Just remember, once you graduate, you will not be able to renew your library items. Library fees/fines: Yes, delinquent fees for library materials may affect graduation . Library billing contacts, policies, appeals, etc.",0.75,0.805679793689127,0.9999999999,1.0
+What do I do if I received the wrong item through Interlibrary Loan?,"[""FAQ Question: What do I do if I received the wrong item through Interlibrary Loan?\n\nFAQ Answer:\nFor articles: Reply to the original email notice telling us what the problem is and we’ll ask the lending library to send the correct article. If you've deleted the email already, send an email to ASU-ILL@asu.edu .\xa0 Be sure to include the TN# (transaction number). For books or other loans: Please return it to Interlibrary Loan as soon as possible and tell us the problem. You can also call or email us, including the TN# and the problem, at (480) 965-3282 or ASU-ILL@asu.edu . The wrong item will be returned to the lending library and the correct one will be reordered. Interlibrary Loan cannot reorder material\xa0until it has been checked in and returned to the owning library."", 'FAQ Question: Are there due dates or fees for interlibrary loan items? Can I renew ILL items?\n\nFAQ Answer:\nYes, interlibrary loan items have due dates and overdue fees.\xa0 These differ depending on the item type and library who is lending the item to you. Due dates For physical items, you can check the due date on the strap attached to the item, or through your ILLiad account .\xa0 The average loan period for most physical items is between 4 and 8 weeks. Electronically delivered items like articles and ebooks do not need to be returned.\xa0 Your access will automatically expire after 60 days. Overdue fees Most ILL items are free to request, receive, and return. For interlibrary loan items that are not returned by the due date, there is a \xa0there is a $5 per day late fee with a maximum overdue fee of $25, and a default $150.00 replacement fee.\xa0The replacement fee may be adjusted depending on the actual cost of the item billed by the library who owns the item.\xa0 We have a high overdue fee as many libraries will block us from requesting any materials when their items are returned late. Home Delivery items are shipped FedEx 2 Day, and include a FedEx Ground return label.\xa0 You are responsible for overdue, damaged, and lost items. Renewals Renewals are usually not available for interlibrary loan items.\xa0To have ILL staff negotiate an extension on a due date with the owning library, please contact us prior to the due date on the item. For more information, contact the ASU Library Interlibrary Loan Department (Monday-Friday, 8am-5pm): (480) 965-3282 Email: ASU-ILL@asu.edu libguides.asu.edu/ill']","If you discover that the item you received through Interlibrary Loan (ILL) isn’t what you requested, follow these steps so the lending library can correct the mistake quickly:
+
+### 1. Identify the type of item you received  
+- **Article (PDF, scanned copy, etc.)**  
+- **Physical item (book, DVD, other loan material)**  
+
+### 2. Take action based on the item type  
+
+#### **For Articles**  
+1. **Reply to the original ILL email notice** you received when the article was delivered.  
+2. In your reply, clearly state that the wrong article was sent and include any details that will help the staff locate the correct item (title, author, journal, etc.).  
+3. **Be sure to include the transaction number (TN#)** in your message – it’s the identifier for your request.  
+4. **If you have already deleted the original email**, send a new message to **ASU‑ILL@asu.edu** with the same information (problem description + TN#).
+
+#### **For Books or Other Physical Loans**  
+1. **Return the item to the ASU Interlibrary Loan office as soon as possible.**  
+2. When you return it, **inform the ILL staff of the problem** (e.g., “I received the wrong book; the title should be …”).  
+3. You can also **call or email** the ILL department to report the issue:  
+   - **Phone:** (480) 965‑3282  
+   - **Email:** ASU‑ILL@asu.edu  
+   - **Include the transaction number (TN#) and a brief description of the error** in your call or email.  
+
+### 3. What happens next?  
+- The incorrect item will be **sent back to the lending library** that originally supplied it.  
+- Once the item is **checked in and returned to the owning library**, the ILL staff will **re‑order the correct material** for you.  
+- **Note:** The correct item cannot be reordered until the wrong one has been returned and processed by the lending library.
+
+### 4. Keep records  
+- Save any email confirmations or reference numbers you receive after reporting the problem.  
+- If you need to follow up, having the TN# and a copy of your correspondence will speed up the process.
+
+---
+
+**Need further help?**  
+If you run into any difficulties or have additional questions, feel free to contact the Interlibrary Loan department directly (phone or email above) or submit a new request through the **Ask a Librarian** service. They’re happy to assist you!","For articles: Reply to the original email notice telling us what the problem is and we’ll ask the lending library to send the correct article. If you've deleted the email already, send an email to ASU-ILL@asu.edu .  Be sure to include the TN# (transaction number). For books or other loans: Please return it to Interlibrary Loan as soon as possible and tell us the problem. You can also call or email us, including the TN# and the problem, at (480) 965-3282 or ASU-ILL@asu.edu . The wrong item will be returned to the lending library and the correct one will be reordered. Interlibrary Loan cannot reorder material until it has been checked in and returned to the owning library.",0.7333333333333333,0.9803061796797216,0.9999999999,1.0
+How do I get technical help with ASU Library resources?,"['FAQ Question: How do I get technical help with ASU Library resources?\n\nFAQ Answer:\nTechnical help (ASU Library) If you are experiencing technical problems with any library online resource, such as broken links, catalog errors, database* problems, etc. and your attempts to troubleshoot the issue have failed, You can request help at: https://lib.asu.edu/systems/help . Sign in with your ASURITE ID and password Fill out and submit\xa0the form One of our technical support staff will respond via email to you as soon as possible. *For ""400 Bad Request: Request Header or Cookie Too Large"" errors when trying to access an article or database , please try the fixes listed in that FAQ before submitting a ticket.', 'FAQ Question: How do I get technical help for non-library issues?\n\nFAQ Answer:\nFor technical problems with\xa0university\xa0resources such as the ASU\xa0wireless network, connectivity issues, and password problems, start at the main ASU Contact page to get to the correct unit to assist you.']","If you run into technical problems with any ASU Library online resource—such as broken links, catalog errors, database issues, or similar errors—follow these steps to get help:
+
+1. **Visit the Library’s technical‑support portal**  
+   Go to: **https://lib.asu.edu/systems/help**
+
+2. **Sign in**  
+   Log in with your **ASURITE ID** and password. This lets the support team see your campus affiliation and route your request appropriately.
+
+3. **Submit a help request**  
+   - Fill out the online form with as much detail as possible (what you were trying to access, the exact error message, the browser you’re using, etc.).  
+   - Submit the form.
+
+4. **Wait for a response**  
+   A member of the Library’s technical support staff will review your ticket and reply to you via email as soon as possible.
+
+### Quick tip for a common error
+If you see a **“400 Bad Request: Request Header or Cookie Too Large”** message when trying to open an article or database, try the troubleshooting steps listed in the Library’s FAQ for that error **before** submitting a ticket. Resolving the cookie/header issue often fixes the problem without needing further assistance.
+
+If you need help with non‑library university resources (e.g., ASU wireless, password resets, etc.), start at the main ASU Contact page to be directed to the appropriate support unit.","Technical help (ASU Library) If you are experiencing technical problems with any library online resource, such as broken links, catalog errors, database* problems, etc. and your attempts to troubleshoot the issue have failed, You can request help at: https://lib.asu.edu/systems/help . Sign in with your ASURITE ID and password Fill out and submit the form One of our technical support staff will respond via email to you as soon as possible. *For ""400 Bad Request: Request Header or Cookie Too Large"" errors when trying to access an article or database , please try the fixes listed in that FAQ before submitting a ticket.",0.6363636363636364,0.9059928498351176,0.9999999999,1.0
+How do I cancel a request for a book from another ASU library?,"['FAQ Question: How do I cancel a request for a book from another ASU library?\n\nFAQ Answer:\nWant to cancel your request? To cancel a request you made for one of our ASU Library items: From the library home page : https://lib.asu.edu In the black header, pause on: Accounts In the drop-down list, click on: My Library Account Sign-in with your ASURITE ID and password, if prompted. Click on: View Holds Select and cancel the items you no longer want. Or you may call the ASU Library and we will cancel your request for you. Call us\xa0at: 480-965-3605', ""FAQ Question: What do I do if I received the wrong item through Interlibrary Loan?\n\nFAQ Answer:\nFor articles: Reply to the original email notice telling us what the problem is and we’ll ask the lending library to send the correct article. If you've deleted the email already, send an email to ASU-ILL@asu.edu .\xa0 Be sure to include the TN# (transaction number). For books or other loans: Please return it to Interlibrary Loan as soon as possible and tell us the problem. You can also call or email us, including the TN# and the problem, at (480) 965-3282 or ASU-ILL@asu.edu . The wrong item will be returned to the lending library and the correct one will be reordered. Interlibrary Loan cannot reorder material\xa0until it has been checked in and returned to the owning library.""]","Sure thing! If you need to cancel a request you placed for a book (or any other item) from another ASU library, just follow these steps:
+
+1. **Go to the ASU Library home page**  
+   Open your web browser and navigate to [https://lib.asu.edu](https://lib.asu.edu).
+
+2. **Access your account**  
+   - In the black header at the top of the page, hover over **“Accounts.”**  
+   - From the drop‑down menu, click **“My Library Account.”**  
+
+3. **Sign in**  
+   - If you aren’t already signed in, you’ll be prompted to log in with your **ASURITE ID** and password.  
+
+4. **View your holds**  
+   - Once you’re in your account, click on **“View Holds.”** This will show a list of all the items you’ve requested (holds) from ASU libraries.
+
+5. **Cancel the unwanted request**  
+   - Locate the item you no longer want.  
+   - Check the box next to that item (or use the cancel button/link next to it).  
+   - Confirm the cancellation when prompted.
+
+6. **Alternative: Cancel by phone**  
+   - If you’d rather not do it online, you can call the ASU Library and ask a staff member to cancel the request for you.  
+   - **Phone:** 480‑965‑3605  
+
+That’s it! Once you’ve cancelled, the request will be removed from the queue, and the item will be released for other patrons. If you run into any trouble or have additional questions, feel free to call the library or use the **Ask a Librarian** service for further assistance.","Want to cancel your request? To cancel a request you made for one of our ASU Library items: From the library home page : https://lib.asu.edu In the black header, pause on: Accounts In the drop-down list, click on: My Library Account Sign-in with your ASURITE ID and password, if prompted. Click on: View Holds Select and cancel the items you no longer want. Or you may call the ASU Library and we will cancel your request for you. Call us at: 480-965-3605",0.5833333333333334,1.0,0.9999999999,1.0
+"How do I ask the library to purchase or subscribe to a new resource – book, ebook, journal, magazine, database, etc.?","['FAQ Question: How do I ask the library to purchase or subscribe to a new resource – book, ebook, journal, magazine, database, etc.?\n\nFAQ Answer:\nWant to ask the library to purchase or subscribe to a new resource? Suggest a new resource using our request / suggestion form at https://lib.asu.edu/services/request/suggest', 'FAQ Question: What items can I request through interlibrary loan? What can’t I request?\n\nFAQ Answer:\nYou can request these types of items through interlibrary loan: Books Book chapters (up to 3 per book) Journal articles (up to 3 per journal issue) Government documents Theses and dissertations Some media (CDs, DVDs) Some ebooks These items are not available to request: Textbooks Items for personal/non-academic use Entire journal issues Some media (CDs, DVDs) Some ebooks There is no limit to the amount of requests you can submit.\xa0 However, we recommend that you only request materials you can use in a reasonable amount of time to avoid overdue fees.\xa0 Renewals are not usually available. For more information, contact the ASU Library Interlibrary Loan Department (Monday-Friday, 8am-5pm): (480) 965-3282 Email: ASU-ILL@asu.edu libguides.asu.edu/ill']","Sure! If you’d like the ASU Library to consider purchasing or subscribing to a new resource—whether it’s a book, e‑book, journal, magazine, database, or something else—you can submit a suggestion through the library’s request form.
+
+**Here’s how to do it:**
+
+1. **Visit the suggestion form:**  
+   Go to [https://lib.asu.edu/services/request/suggest](https://lib.asu.edu/services/request/suggest).
+
+2. **Complete the form:**  
+   - **Provide the full title** (or title + author) of the resource you’re requesting.  
+   - **Specify the format** you need (e.g., print book, e‑book, journal subscription, database, etc.).  
+   - **Include any additional details** that might help the library evaluate the request, such as ISBN/ISSN, publisher, or why the resource would be valuable for ASU students and faculty.
+
+3. **Submit your request:**  
+   After you’ve filled out all required fields, click the submit button. The library’s acquisition team will review your suggestion and consider it for purchase or subscription.
+
+That’s it! Your input helps the library keep its collections relevant and useful for the ASU community. If you have any follow‑up questions or need assistance with the form, feel free to let me know.",Want to ask the library to purchase or subscribe to a new resource? Suggest a new resource using our request / suggestion form at https://lib.asu.edu/services/request/suggest,0.2222222222222222,0.867889128813537,0.9999999999,1.0
+Does ASU Library have maps or geospatial services?,"['FAQ Question: Does ASU Library have maps or geospatial services?\n\nFAQ Answer:\nMap and Geospatial Hub Our Map and Geospatial Hub advances the use of geographically-referenced information by expanding access to, and support for, cartographic resources and geospatial technologies for the ASU community and beyond. In-person visits are by appointment only. Visit our webpage : Make a service request form.', ""Database: ASU GeoData\n\nDescription:\nGeospatial datasets, maps, and imagery curated byASU Library's Map and Geospatial Hub, along with links to external geographic data platforms for research and exploration.""]","Yes! The Arizona State University Library offers a dedicated **Map and Geospatial Hub** that provides both **maps** and a full suite of **geospatial services** for the ASU community (and beyond).
+
+**What the Hub offers**
+
+| Service | Details |
+|---------|---------|
+| **Cartographic resources** | Access to a wide range of maps, geospatial datasets, and imagery that are curated by the library. |
+| **Geospatial technologies** | Support for GIS software, spatial analysis tools, and other location‑based technologies. |
+| **Research support** | Guidance on how to locate, use, and cite geographic data for projects, papers, and presentations. |
+| **External data links** | Connections to additional geographic data platforms for deeper exploration. |
+| **In‑person assistance** | You can visit the Hub **by appointment only** for hands‑on help. |
+| **Service requests** | A web‑based form is available to request specific services, data, or equipment. |
+
+**How to get started**
+
+1. **Make an appointment** – Since walk‑ins are by appointment only, schedule a time to meet with a geospatial specialist.  
+2. **Submit a service request** – Use the Hub’s “Make a service request” form (linked from the Hub’s webpage) to specify what you need (e.g., data download, software training, map creation).  
+3. **Explore the ASU GeoData libguide** – The library’s **ASU GeoData** database (https://libguides.asu.edu/asu-geodata) lists the curated geospatial datasets, maps, and imagery, plus links to external geographic data platforms.
+
+**Helpful links**
+
+- **Map and Geospatial Hub FAQ** – https://askalibrarian.asu.edu/faq/177492  
+- **ASU GeoData libguide** – https://libguides.asu.edu/asu-geodata  
+
+If you have any specific questions about the types of data available, need help with a GIS project, or want to set up an appointment, feel free to let me know or submit a request through the service‑request form. I’m happy to help you get the geographic information you need!","Map and Geospatial Hub Our Map and Geospatial Hub advances the use of geographically-referenced information by expanding access to, and support for, cartographic resources and geospatial technologies for the ASU community and beyond. In-person visits are by appointment only. Visit our webpage : Make a service request form.",0.55,0.8495003672652712,0.99999999995,1.0
+Where can I find a permanent link to an item I found in One Search?,"['FAQ Question: Where can I find a permanent link to an item I found in One Search?\n\nFAQ Answer:\nTo find the persistent URL or permalink for a record you found in One Search... In the short display The short display is usually part of your results list as a numbered item (such as the number 3 item in your results list). Along the top right of the short display for the record, look for and click the three dots icon (...). In the resulting list of action options, click on ""permalink"" to display a URL that you can copy and paste for future use . In the full record display From the short record in the results list, click the title of the item until you find the longer full record for the item.\xa0 If there were multiple formats listed in the short record, you may need to click on the title in the new numbered list of short records, and then click on the title of an item to get to the full record! Look for the ""Send to"" section of the record to find the permalink. Then click on ""permalink"" to display a URL that you can copy and paste for future use.', 'FAQ Question: How do I find an item if I already have the full citation - author, title, etc.?\n\nFAQ Answer:\nThere are several ways to see if we have the article, book, or other item you need. Use our Citation Linker . Remember to select the appropriate option on the form for: Article\xa0(includes DOI search field) Book Journal\xa0(includes DOI search field) Search by DOI with the DOI (Digital Object Identifier) Resolver Search by the citation information in ASU Library\'s One Search * Place quotation marks around the article title so that the words are searched as that particular phrase. Example: "" University of transformation: Michael Crow at Arizona State University ""']","Sure! If you’ve located a record in **One Search** and need a permanent URL (also called a *permalink*) that you can save or share, you can get it in either the short display (the brief entry in your results list) or the full record view. Here’s how to do both:
+
+---
+
+### 1. From the **short display** (the brief entry in your results list)
+
+1. **Locate the short display** for the item you want. This is the numbered entry that appears in the list of results (e.g., the “#3” item).  
+2. In the **top‑right corner** of that short display, you’ll see a **three‑dots icon (⋯)**.  
+3. Click the three‑dots icon. A menu of action options will appear.  
+4. Choose **“permalink.”**  
+5. A URL will be displayed—simply **copy** that link and paste it wherever you need (e.g., in a citation, email, or personal notes). This URL is persistent and will always bring you back to that exact record.
+
+---
+
+### 2. From the **full record display** (the detailed view of the item)
+
+1. From the short display, **click the title** of the item to open the longer, full record.  
+   - *Note:* If the short display lists multiple formats (e.g., a book and an e‑book), you may need to click the title again in the new numbered list to reach the full record for the specific format you want.  
+2. Once you’re on the full record page, scroll down to the **“Send to”** section.  
+3. In that section, look for the **“permalink”** option and click it.  
+4. A permanent URL will appear—**copy** it for future use.
+
+---
+
+### Quick Tips
+
+- **Use the permalink** whenever you need a stable link that won’t change over time. It’s especially handy for sharing resources with classmates, adding to research notes, or embedding in a bibliography.  
+- If you ever lose the link, you can always return to One Search, locate the item again, and repeat the steps above.  
+
+---
+
+If you run into any trouble or have additional questions about using One Search, feel free to ask or visit the **Ask a Librarian** service for personalized help. Happy researching!","To find the persistent URL or permalink for a record you found in One Search... In the short display The short display is usually part of your results list as a numbered item (such as the number 3 item in your results list). Along the top right of the short display for the record, look for and click the three dots icon (...). In the resulting list of action options, click on ""permalink"" to display a URL that you can copy and paste for future use . In the full record display From the short record in the results list, click the title of the item until you find the longer full record for the item.  If there were multiple formats listed in the short record, you may need to click on the title in the new numbered list of short records, and then click on the title of an item to get to the full record! Look for the ""Send to"" section of the record to find the permalink. Then click on ""permalink"" to display a URL that you can copy and paste for future use.",0.75,0.8597323762908851,0.9999999999,1.0
+Can you give me a link to the Index Translationum database?,"['Database: Index Translationum\n\nDescription:\nCoverage:1979 +Maximum Concurrent Users:UnlimitedThe Index Translationum includes a list of all translated books, covering all disciplines and over 500 languages including English.', ""Database: Neue Mozart Ausgabe Online\n\nDescription:\nFind digitized scores and critical commentaries of Mozart's complete works, offering searchable access by Köchel number, key, editor, and more.""]","Here’s the direct link to the **Index Translationum** database on the ASU Library website:
+
+**[Index Translationum – ASU LibGuides](https://libguides.asu.edu/translationum)**
+
+This resource provides a comprehensive list of translated books across all disciplines and more than 500 languages, with coverage beginning in 1979. If you need any help navigating the database or have further questions, feel free to let me know—or you can always reach out to **Ask a Librarian** for additional assistance. Happy researching!",Here is the link to the Index Translationum database: https://libguides.asu.edu/translationum,0.5,0.7281852396380271,0.0,0.0
+Can you give me a link to the Arizona Archives Online database?,"['Database: Arizona Archives Online\n\nDescription:\nA collaborative project that provides searchable finding aids for archival collections across Arizona, including universities, historical institutions, and museums, with plans to expand to include digital content from selected collections.', 'Database: Arizona Republic (ProQuest)\n\nDescription:\nFind articles, editorials, notices, and obituaries from the Arizona Republic since 1999, excluding images and ads.']","Here’s the link to the **Arizona Archives Online** database:
+
+**https://libguides.asu.edu/azarchonline**
+
+This resource provides searchable finding aids for archival collections across Arizona, including university, historical institution, and museum holdings. If you need help navigating the site or locating specific materials, feel free to reach out to Ask a Librarian for personalized assistance. Happy researching!",Here is the link to the Arizona Archives Online database: https://libguides.asu.edu/azarchonline,0.5714285714285714,0.9352856283200229,0.0,0.0
+Can you give me a link to the International Bibliography of Theatre & Dance with Full Text database?,"['Database: International Bibliography of Theatre & Dance with Full Text\n\nDescription:\nIn‑depth, expertly indexed coverage of theatre and dance scholarship enriched with full‑text access to leading performing‑arts journals and monographs.', ""Research Guide (metadata): Theatre for Youth and Community Collection\nSubjects: Art, Dance, Film and Theater, History, Humanities, Literature\nTags: children's_literature, primary sources, theatre\nDescription: \nURL:""]","Here’s the link to the **International Bibliography of Theatre & Dance with Full Text** database:
+
+**https://libguides.asu.edu/ibtd**
+
+You can click the URL to access the database directly through the ASU Library’s LibGuides portal. If you need help navigating the resource or have any other questions, feel free to let me know or reach out to **Ask a Librarian** for personalized assistance. Happy researching!",Here is the link to the International Bibliography of Theatre & Dance with Full Text database: https://libguides.asu.edu/ibtd,0.0,0.9524120799762209,0.0,0.0
+Can you give me a link to the CCH AnswerConnect database?,"['Database: CCH AnswerConnect\n\nDescription:\nOffers students and tax professionals the latest tax information and support to manage and protect a business while navigating the changing US Federal and state tax landscape.', ""Database: Children’s Literature Comprehensive Database (CLCD)\n\nDescription:\nProvides access to children's and young adult books, professional reviews, book awards, reading levels, and teaching guides, with advanced search features to support book selection, collection development, and lesson planning.""]","Sure! You can access the CCH AnswerConnect database here:
+
+**https://libguides.asu.edu/cchanswerconnect**
+
+If you need any help navigating the resource or have other questions, feel free to let me know!",Here is the link to the CCH AnswerConnect database: https://libguides.asu.edu/cchanswerconnect,0.6666666666666666,0.9496137484320195,0.0,0.0
+Can you give me a link to the BBC Shakespeare Plays database?,"['Database: BBC Shakespeare Plays\n\nDescription:\nMaximum Concurrent Users:UnlimitedTelevision adaptations of all 37 Shakespeare plays, produced by the BBC between 1978 and 1985. These have become standard productions for educational purposes.', 'Database: Digital Theatre+\n\nDescription:\nA digital streaming collection of over 1000 full-length films of Shakespeare plays, modern dramas, classical music, dance, musicals, opera and adaptations of classic novels. Digital Theatre Plus includes behind-the-scenes documentaries as well as teaching and learning resources to facilitate a deeper understanding of the productions and texts. Learning resources include a detailed introduction, plot summary, character biographies, a relationship map, language analysis, scene study, performance background and historical context for each play.']","Here’s the link to the **BBC Shakespeare Plays** database:
+
+**https://libguides.asu.edu/bbcshakespeare**
+
+Feel free to explore the television adaptations of all 37 Shakespeare plays produced by the BBC (1978‑1985). If you need any help navigating the resource or locating specific titles, just let me know!",Here is the link to the BBC Shakespeare Plays database: https://libguides.asu.edu/bbcshakespeare,0.6666666666666666,0.9768919769067459,0.0,0.0
+Can you give me a link to the Knovel database?,"['Database: Knovel\n\nDescription:\nAccess thousands of engineering, technology, and science reference works, including data searching tools, a periodic table, unit converters, and interactive equations for research and problem-solving.', ""Database: Neue Mozart Ausgabe Online\n\nDescription:\nFind digitized scores and critical commentaries of Mozart's complete works, offering searchable access by Köchel number, key, editor, and more.""]","Here’s the link to the Knovel database through the ASU Library:
+
+**Knovel:** https://libguides.asu.edu/knovel  
+
+Knovel provides access to thousands of engineering, technology, and science reference works, along with tools for data searching, a periodic table, unit converters, and interactive equations—great for research and problem‑solving.  
+
+If you have any trouble accessing the resource or need help navigating it, feel free to let me know or you can also reach out to **Ask a Librarian** for additional assistance.",Here is the link to the Knovel database: https://libguides.asu.edu/knovel,0.6923076923076923,0.8707583666389408,0.0,0.0
+Can you give me a link to the International Nuclear Information System (INIS) database?,"['Database: International Nuclear Information System (INIS)\n\nDescription:\nOpen-access resource providing global coverage of scientific and technical literature on nuclear science and technology, including engineering, safety, and peaceful applications.', 'Database: IOPScience\n\nDescription:\nFull text of selected Institute of Physics (IOP) journals.']","Here’s the link to the International Nuclear Information System (INIS) database:
+
+**[https://libguides.asu.edu/inis](https://libguides.asu.edu/inis)**
+
+If you need help navigating the resource or have any other questions, feel free to let me know or you can also reach out to Ask a Librarian for additional assistance.",Here is the link to the International Nuclear Information System (INIS) database: https://libguides.asu.edu/inis,0.0,0.9550657130819404,0.0,0.0
+Can you give me a link to the Black Thought and Culture database?,"['Database: Black Thought and Culture\n\nDescription:\nFull-text access to 100,000 pages of non-fiction writings by over 1,000 prominent Black leaders, including abolitionists, civil rights activists, and scholars. Spanning 250 years of history, it features letters, speeches, interviews, essays, and periodicals.', 'Database: Black Studies Center\n\nDescription:\nA cross-searchable gateway to Black Studies, featuring scholarly essays, periodicals, historical newspapers, reference books, and more for research and teaching.']","Here’s the link to the **Black Thought and Culture** database:
+
+**https://libguides.asu.edu/bltc**
+
+This resource provides full‑text access to more than 100,000 pages of non‑fiction writings by over 1,000 prominent Black leaders, including abolitionists, civil‑rights activists, and scholars. It spans roughly 250 years of history and includes letters, speeches, interviews, essays, and periodicals.  
+
+If you need help navigating the database or locating specific materials, feel free to reach out to **Ask a Librarian** for personalized assistance.",Here is the link to the Black Thought and Culture database: https://libguides.asu.edu/bltc,0.7857142857142857,0.9625285281312612,0.0,0.0
+"Can you give me a link to the Archives of Latin American and Caribbean History, Sixteenth to Twentieth Century (Gale Primary Sources) database?","['Database: Archives of Latin American and Caribbean History, Sixteenth to Twentieth Century (Gale Primary Sources)\n\nDescription:\nExtensive archival material covering Latin American and Caribbean culture and history from the 15th to the 20th century, featuring over 1 million pages curated by leading scholars.', 'Database: Nineteenth Century Collections Online (Gale Primary Sources)\n\nDescription:\nGlobal digitized primary source collections from the long nineteenth century, including rare monographs, newspapers, pamphlets, manuscripts, maps, photographs, and more in Western and non-Western languages, curated by international experts.']","Here’s the direct link to the **Archives of Latin American and Caribbean History, Sixteenth to Twentieth Century (Gale Primary Sources)** database:
+
+**[https://libguides.asu.edu/archiveslacarib](https://libguides.asu.edu/archiveslacarib)**
+
+If you have any trouble accessing the resource or need help navigating the collection, feel free to let me know or you can also reach out to **Ask a Librarian** for personalized assistance. Happy researching!","Here is the link to the Archives of Latin American and Caribbean History, Sixteenth to Twentieth Century (Gale Primary Sources) database: https://libguides.asu.edu/archiveslacarib",0.2,0.9402850919053684,0.0,0.0
+Can you give me a link to the MIT Press Direct database?,"['Database: MIT Press Direct\n\nDescription:\nMIT Press Direct includes two collections of scholarly e-books from MIT Press: STEAM (Science, Technology, Engineering, the Arts, and Mathematics) and HSS (Humanities and Social Sciences).', 'Database: Alt-PressWatch\n\nDescription:\nAccess full-text articles from selected independent newspapers, magazines, and journals offering alternative perspectives on local, national, and international issues.']","Sure! You can access the MIT Press Direct database through the ASU Library’s LibGuide here:
+
+**MIT Press Direct:** https://libguides.asu.edu/mitdirect
+
+If you have any trouble accessing it or need help navigating the collection, feel free to let me know or reach out to Ask a Librarian for additional assistance. Happy researching!",Here is the link to the MIT Press Direct database: https://libguides.asu.edu/mitdirect,0.0,0.8883637497010869,0.0,0.0
+What are the hours for Law Library on Saturday?,"['Library Location/Service: Law Library\n\nWeekly Operating Hours:\nSunday: Closed\nMonday: 8am - 5pm\nTuesday: 8am - 5pm\nWednesday: 8am - 5pm\nThursday: 8am - 5pm\nFriday: 8am - 5pm\nSaturday: Closed\n\nMore Info: https://lawlib.asu.edu/', 'Library Location/Service: Music Library\n\nWeekly Operating Hours:\nSunday: 1pm - 7pm\nMonday: 8am - 8pm\nTuesday: 8am - 8pm\nWednesday: 8am - 8pm\nThursday: 8am - 8pm\nFriday: 8am - 6pm\nSaturday: 10am - 5pm\n\nMore Info: https://lib.asu.edu/music']","The Law Library is **closed on Saturdays**.  
+
+- **Saturday:** Closed  
+
+If you need any other information about the Law Library or its services, feel free to ask or visit the “Ask a Librarian” page for further assistance.",The hours for Law Library on Saturday are: Closed.,0.6666666666666666,0.9649148026742334,0.9999999999,1.0
+What are the hours for Data Science and Analytics (by appt only) on Monday?,"['Library Location/Service: Data Science and Analytics (by appt only)\n\nWeekly Operating Hours:\nSunday: -\nMonday: -\nTuesday: -\nWednesday: -\nThursday: -\nFriday: -\nSaturday: -\n\nMore Info: https://lib.asu.edu/data', 'Library Location/Service: Community Driven Archives (by appt only)\n\nWeekly Operating Hours:\nSunday: -\nMonday: -\nTuesday: -\nWednesday: -\nThursday: -\nFriday: -\nSaturday: -\n\nMore Info: No Link']","According to the library’s timetable, the **Data Science and Analytics** service (which is available by appointment only) does **not list any operating hours for Monday**—the entry for Monday is shown as “‑”. This indicates that the service is not open to walk‑in visits on that day (or that hours have not been posted).
+
+Because the service is appointment‑only, you would need to schedule a meeting in advance. If you need more specific information about how to set up an appointment or whether any special hours might be available, I recommend contacting the library directly or using the **Ask a Librarian** service for further assistance.",The hours for Data Science and Analytics (by appt only) on Monday are: -.,0.75,0.9240523882792541,0.99999999995,1.0
+What are the hours for Ask a Librarian Chat and Text Service on Monday?,"['Library Location/Service: Ask a Librarian Chat and Text Service\n\nWeekly Operating Hours:\nSunday: Closed\nMonday: 8am - 5pm\nTuesday: 8am - 5pm\nWednesday: 8am - 5pm\nThursday: 8am - 5pm\nFriday: 8am - 5pm\nSaturday: Closed\n\nMore Info: https://askalibrarian.asu.edu', 'Library Location/Service: Visitors\n\nWeekly Operating Hours:\nSunday: Closed\nMonday: 10am - 2pm\nTuesday: 10am - 2pm\nWednesday: 10am - 2pm\nThursday: 10am - 2pm\nFriday: 10am - 2pm\nSaturday: Closed\n\nMore Info: https://lib.asu.edu/design']","The **Ask a Librarian Chat and Text Service** is open on **Monday from 8 a.m. to 5 p.m.**  
+
+(For reference, the service is closed on Sundays and Saturdays, and operates 8 a.m.–5 p.m. Tuesday through Friday.)  
+
+If you need any further assistance or have questions outside these hours, you can always reach out through the Ask a Librarian portal: https://askalibrarian.asu.edu.",The hours for Ask a Librarian Chat and Text Service on Monday are: 8am - 5pm.,0.875,0.9330022621071115,0.9999999999,1.0
+What are the hours for Wurzburger Reading Room (by appt only) on Saturday?,"['Library Location/Service: Wurzburger Reading Room (by appt only)\n\nWeekly Operating Hours:\nSunday: -\nMonday: -\nTuesday: -\nWednesday: -\nThursday: -\nFriday: -\nSaturday: -\n\nMore Info: https://askalibrarian.asu.edu/askanarchivist', 'Library Location/Service: Book Arts Studio (by reservation)\n\nWeekly Operating Hours:\nSunday: Closed\nMonday: 11am - 4pm\nTuesday: 11am - 4pm\nWednesday: 11am - 4pm\nThursday: 11am - 4pm\nFriday: Closed\nSaturday: Closed\n\nMore Info: https://lib.asu.edu/makerspace/book-arts-studio']","The timetable for the **Wurzburger Reading Room (by appointment only)** does not list any regular operating hours for any day of the week—including Saturday (it shows “‑” for Saturday). This means the space does not have set public hours; access is arranged by appointment.
+
+If you need to schedule a visit or want more specific information about availability on Saturdays, I recommend contacting the library directly through **Ask a Librarian**:
+
+**Ask a Librarian:** https://askalibrarian.asu.edu/askanarchivist
+
+They can help you set up an appointment and provide any additional details you may need.",The hours for Wurzburger Reading Room (by appt only) on Saturday are: -.,0.625,0.9250001784261579,0.9999999999,1.0
+What are the hours for Polytechnic campus Library on Wednesday?,"['Library Location/Service: Polytechnic campus Library\n\nWeekly Operating Hours:\nSunday: 12pm - 10pm\nMonday: 8am - 10pm\nTuesday: 8am - 10pm\nWednesday: 8am - 10pm\nThursday: 8am - 10pm\nFriday: 8am - 7pm\nSaturday: 11am - 7pm\n\nMore Info: https://lib.asu.edu/polytechnic', 'Library Location/Service: Downtown campus Library - ASU Faculty, Staff and Students\n\nWeekly Operating Hours:\nSunday: 12pm - 8pm\nMonday: 8am - 10pm\nTuesday: 8am - 10pm\nWednesday: 8am - 10pm\nThursday: 8am - 10pm\nFriday: 8am - 7pm\nSaturday: 10am - 6pm\n\nMore Info: https://lib.asu.edu/downtown']",The Polytechnic Campus Library is open on **Wednesday from 8 a.m. to 10 p.m.**. If you need any additional details—such as special holiday hours or services available during those times—feel free to let me know or check the library’s page at https://lib.asu.edu/polytechnic.,The hours for Polytechnic campus Library on Wednesday are: 8am - 10pm.,0.75,0.98504210223501,0.9999999999,1.0
+What are the hours for Hayden Labriola on Tuesday?,"['Library Location/Service: Hayden Labriola\n\nWeekly Operating Hours:\nSunday: 10am - 6pm\nMonday: 9am - 9pm\nTuesday: 9am - 9pm\nWednesday: 9am - 9pm\nThursday: 9am - 9pm\nFriday: 9am - 5pm\nSaturday: 10am - 6pm\n\nMore Info: https://lib.asu.edu/labriola', 'Library Location/Service: Visitors\n\nWeekly Operating Hours:\nSunday: 10am - 5pm\nMonday: 7am - 9pm\nTuesday: 7am - 9pm\nWednesday: 7am - 9pm\nThursday: 7am - 9pm\nFriday: 7am - 5pm\nSaturday: 9am - 5pm\n\nMore Info: https://lib.asu.edu/hayden']","Hayden Labriola Library is open on **Tuesday from 9 a.m. to 9 p.m.**  
+
+You can see the full weekly schedule and additional details here: https://lib.asu.edu/labriola. If you need anything else, feel free to ask or contact “Ask a Librarian.”",The hours for Hayden Labriola on Tuesday are: 9am - 9pm.,0.75,0.9156214759405222,0.9999999999,1.0
+What are the hours for ASU California Center Library (Pacific Time) on Tuesday?,"['Library Location/Service: ASU California Center Library (Pacific Time)\n\nWeekly Operating Hours:\nSunday: Closed\nMonday: 7:30am - 7pm\nTuesday: 7:30am - 7pm\nWednesday: 7:30am - 7pm\nThursday: 7:30am - 7pm\nFriday: 7:30am - 6pm\nSaturday: Closed\n\nMore Info: https://lib.asu.edu/asu-california-center', 'Library Location/Service: Ask a Librarian Chat and Text Service\n\nWeekly Operating Hours:\nSunday: Closed\nMonday: 8am - 5pm\nTuesday: 8am - 5pm\nWednesday: 8am - 5pm\nThursday: 8am - 5pm\nFriday: 8am - 5pm\nSaturday: Closed\n\nMore Info: https://askalibrarian.asu.edu']","The ASU California Center Library (Pacific Time) is open on **Tuesday from 7:30 a.m. to 7:00 p.m.**.  
+
+If you need any additional help—such as information about services, study spaces, or upcoming events—feel free to reach out to the library staff or use the **Ask a Librarian** chat and text service (Monday‑Friday, 8 a.m.–5 p.m.).",The hours for ASU California Center Library (Pacific Time) on Tuesday are: 7:30am - 7pm.,0.42857142857142855,0.8632893927410691,0.9999999999,1.0
+What are the hours for Book Arts Studio (by reservation) on Tuesday?,"['Library Location/Service: Book Arts Studio (by reservation)\n\nWeekly Operating Hours:\nSunday: Closed\nMonday: 11am - 4pm\nTuesday: 11am - 4pm\nWednesday: 11am - 4pm\nThursday: 11am - 4pm\nFriday: Closed\nSaturday: Closed\n\nMore Info: https://lib.asu.edu/makerspace/book-arts-studio', 'Library Location/Service: Visitors\n\nWeekly Operating Hours:\nSunday: Closed\nMonday: 10am - 2pm\nTuesday: 10am - 2pm\nWednesday: 10am - 2pm\nThursday: 10am - 2pm\nFriday: 10am - 2pm\nSaturday: Closed\n\nMore Info: https://lib.asu.edu/design']","The Book Arts Studio (by reservation) is open on Tuesdays from **11 a.m. – 4 p.m.**.  
+
+If you need to make a reservation or want more information, you can visit the studio’s page here: https://lib.asu.edu/makerspace/book-arts-studio.  
+
+Feel free to let me know if there’s anything else you’d like to know!",The hours for Book Arts Studio (by reservation) on Tuesday are: 11am - 4pm.,0.8,0.8995570563956221,0.9999999999,1.0
+"What are the hours for Hayden Library - ASU Faculty, Staff and Students on Saturday?","['Library Location/Service: Hayden Library - ASU Faculty, Staff and Students\n\nWeekly Operating Hours:\nSunday: 10am - 12am\nMonday: 7am - 12am\nTuesday: 7am - 12am\nWednesday: 7am - 12am\nThursday: 7am - 12am\nFriday: 7am - 12am\nSaturday: 9am - 12am\n\nMore Info: https://lib.asu.edu/hayden', 'Library Location/Service: Visitors\n\nWeekly Operating Hours:\nSunday: 10am - 5pm\nMonday: 7am - 9pm\nTuesday: 7am - 9pm\nWednesday: 7am - 9pm\nThursday: 7am - 9pm\nFriday: 7am - 5pm\nSaturday: 9am - 5pm\n\nMore Info: https://lib.asu.edu/hayden']","Hayden Library’s hours for **ASU faculty, staff, and students** on **Saturday** are:
+
+- **Open:** 9 am  
+- **Close:** 12 am (midnight)
+
+So you can access the library from early morning until the very end of the day on Saturdays. If you need any additional details or have other questions, feel free to ask—or you can also reach out to **Ask a Librarian** for further assistance.","The hours for Hayden Library - ASU Faculty, Staff and Students on Saturday are: 9am - 12am.",0.6666666666666666,0.9944581646485877,0.9999999999,1.0
+"What are the hours for Design and the Arts Library – ASU Faculty, Staff and Students on Monday?","['Library Location/Service: Design and the Arts Library – ASU Faculty, Staff and Students\n\nWeekly Operating Hours:\nSunday: 1pm - 8pm\nMonday: 8am - 8pm\nTuesday: 8am - 8pm\nWednesday: 8am - 8pm\nThursday: 8am - 8pm\nFriday: 8am - 5pm\nSaturday: 1pm - 5pm\n\nMore Info: https://lib.asu.edu/design', 'Library Location/Service: Visitors\n\nWeekly Operating Hours:\nSunday: Closed\nMonday: 10am - 2pm\nTuesday: 10am - 2pm\nWednesday: 10am - 2pm\nThursday: 10am - 2pm\nFriday: 10am - 2pm\nSaturday: Closed\n\nMore Info: https://lib.asu.edu/design']","The Design and the Arts Library for ASU faculty, staff, and students is open on **Monday from 8 a.m. to 8 p.m.**  
+
+If you need any additional information—such as holiday schedules, special services, or assistance locating resources—feel free to let me know or you can reach out to **Ask a Librarian** for further help.","The hours for Design and the Arts Library – ASU Faculty, Staff and Students on Monday are: 8am - 8pm.",0.42857142857142855,0.9226715096273536,0.9999999999,1.0
+Do you have a research guide for Behavioral Health?,"['Research Guide (metadata): Behavioral Health\nSubjects: Health Sciences, Psychology\nTags: ""library, Behavioral Care, Behavioral Health, Behavioural Health\nDescription: \nURL:', 'Research Guide (metadata): Tests and Psychological Measures\nSubjects: Psychology, Social Sciences\nTags: psychosocial_measures, tests\nDescription: \nURL:']","Yes! The ASU Library has a research guide titled **“Behavioral Health.”**  
+
+**What the guide covers**  
+- **Subjects:** Health Sciences and Psychology  
+- **Tags:** library, Behavioral Care, Behavioral Health, Behavioural Health  
+
+This guide is designed to help you locate resources, databases, and other materials related to behavioral health topics. While the specific URL isn’t listed in the information I have, you can easily find the guide by:
+
+1. Going to the **ASU Library website** and using the search box.  
+2. Typing **“Behavioral Health research guide”** (or just “Behavioral Health”).  
+3. Selecting the guide from the results list.
+
+If you have trouble locating it or need more specific assistance (e.g., finding particular articles, databases, or citation tools), feel free to use the **Ask a Librarian** service—our librarians are happy to help you navigate the guide and any related resources.","Yes, you can find the research guide for Behavioral Health here: https://libguides.asu.edu/behavioralhealth",0.4,0.8608125293901868,0.9999999999,1.0
+Do you have a research guide for HST 328:  Women in US History 1880-1980 (Poly campus online)?,"['Research Guide (metadata): HST 328:  Women in US History 1880-1980 (Poly campus online)\nSubjects: nan\nTags: nan\nDescription: \nURL:', 'Research Guide (metadata): HST 327:  Women in US History 1600-1880 (Poly campus online)\nSubjects: nan\nTags: nan\nDescription: \nURL:']","Yes—our collection includes a research guide titled **“HST 328: Women in US History 1880‑1980 (Poly campus online)”**. The guide is listed in the library’s research‑guide catalog, though the entry does not include a direct URL or detailed description.
+
+If you need the actual link or want to explore the guide’s contents (such as recommended databases, primary‑source collections, or citation tips), I recommend contacting an ASU librarian through the **Ask a Librarian** service. They can provide you with the exact web address and any additional support you might need for your research.","Yes, you can find the research guide for HST 328:  Women in US History 1880-1980 (Poly campus online) here: https://libguides.asu.edu/HST328",0.3333333333333333,0.9357938076604816,0.9999999999,0.0
+Do you have a research guide for Patents?,"['Research Guide (metadata): Patents\nSubjects: Business and Economics, Engineering and Computer Science, General, Government Documents, Sciences\nTags: engineering, inventions, patents, technology\nDescription: \nURL:', 'Research Guide (metadata): MKT 550: Product Management &amp;amp; Innovation\nSubjects: Business and Economics\nTags: marketing, marketing_plans, olsen\nDescription: \nURL:']","Yes — the ASU Library offers a **Research Guide titled “Patents.”**  
+
+**What the guide covers**  
+- Subjects: Business and Economics, Engineering and Computer Science, General, Government Documents, and the Sciences  
+- Tags: engineering, inventions, patents, technology  
+
+This guide is designed to help you locate and use patent‑related resources, understand the patent system, and explore related engineering and business information.
+
+Because the specific URL isn’t listed in the metadata we have, I recommend checking the **ASU Library Guides** portal or contacting a librarian for the direct link. If you need help navigating to the guide or have any other questions, feel free to use the **Ask a Librarian** service—our staff will be happy to point you right to it.","Yes, you can find the research guide for Patents here: https://libguides.asu.edu/patents",0.5882352941176471,0.8427446364726261,0.9999999999,1.0
+Do you have a research guide for HST 495 - Latin America and the Cold War - Sarreal?,"['Research Guide (metadata): HST 495 - Latin America and the Cold War - Sarreal\nSubjects: History, Politics and Social Justice\nTags: Cold War, LatinAmerica, Politcs, SouthAmerica\nDescription: \nURL:', 'Research Guide (metadata): HST 494 Conquest &amp; Encounters in Colonial Latin America - Sarreal\nSubjects: History\nTags: colonial latin america, colonial latin american history, latin america\nDescription: \nURL:']","Yes! The ASU Library’s research guides include a guide specifically for **HST 495 – Latin America and the Cold War** (taught by Professor Sarreal).
+
+**Guide details**
+
+| Item | Information |
+|------|--------------|
+| **Title** | Research Guide (metadata): HST 495 – Latin America and the Cold War – Sarreal |
+| **Subjects** | History, Politics and Social Justice |
+| **Tags** | Cold War, Latin America, Politics, South America |
+| **Description** | (No description was provided in the record) |
+| **URL** | The record does not list a URL, so the direct link isn’t available here. |
+
+If you need the actual link to the guide or want to explore the resources it contains (e.g., recommended books, databases, primary‑source collections), I recommend contacting an ASU librarian through **Ask a Librarian** or visiting the **ASU Library Research Guides** page and searching for “HST 495 – Latin America and the Cold War.” They can provide you with the exact URL and any additional support you might need for your research.","Yes, you can find the research guide for HST 495 - Latin America and the Cold War - Sarreal here: https://libguides.asu.edu/HST495latinamericaandthecoldwar",0.6666666666666666,0.8994326200456942,0.9999999999,1.0
+Do you have a research guide for Seed Library?,"['FAQ Question: How do I find the library research guides?\n\nFAQ Answer:\nOur librarians have put together hundreds of guides to help you with your research! To find research strategies, tips and databases\xa0for a specific discipline: Go to our Library Guides page . You can search our guides by Keyword(s) . Enter keywords into the Search box (near the top of the page). Or you can browse an alphabetical list of guides in the following categories: ALL GUIDES BY SUBJECT BY TYPE Course Guide Research Guide Topic Guide How to Guide BY OWNER', 'FAQ Question: How do I start my research?\n\nFAQ Answer:\nFind information about starting your research\xa0in our Library Guides : https://libguides.asu.edu Try our library tutorials : https://lib.asu.edu/tutorials']","The ASU Library’s research guides are all housed on the **Library Guides** site. You can look for a guide on the Seed Library by doing one of the following:
+
+1. **Search by keyword** – On the Library Guides page, locate the search box near the top of the page and type *Seed Library*. The system will return any guides that contain those keywords.  
+2. **Browse by subject or type** – If you prefer to explore, you can click through the alphabetical lists under **ALL GUIDES → BY SUBJECT** or **BY TYPE** (e.g., “Research Guide” or “Topic Guide”) to see if a Seed Library guide is listed.  
+
+If a dedicated Seed Library guide does not appear, you can:
+
+- **Ask a Librarian** – Submit a question through the Ask a Librarian service (https://askalibrarian.asu.edu) and a librarian can let you know whether a guide exists or help you locate relevant resources.  
+
+Feel free to let me know if you need help navigating the Library Guides page or if you’d like assistance with any other research resources!","Yes, you can find the research guide for Seed Library here: https://libguides.asu.edu/seedlibrary",0.6363636363636364,0.89019020005554,0.0,0.0
+Do you have a research guide for SWU 413 Practicum Seminar?,"['FAQ Question: Do you have any tutorials about general research skills?\n\nFAQ Answer:\nNeed to learn about general research skills? Here is a list of tutorials designed by our experts to get you started... Developing a Research Question Evaluating Resources Finding and Using Background Research Generating and Using Keywords Introduction to ASU Library Introduction to University Research PICO: Research Questions for Health Sciences Research Guidance Topic Identification and Selection And we have more tutorials to help you! Tutorials web page', 'FAQ Question: Where can I find online tutorials?\n\nFAQ Answer:\nDo you need self-paced instruction? Try our Library Tutorials online at: http://lib.asu.edu/tutorials . These tutorials cover a variety of topics such as: General research skills; How to find\xa0articles; How to find peer-reviewed / scholarly articles; The importance of citing your sources; How to cite sources; and How to use our\xa0databases.']","I’m sorry—I don’t have information about a specific research guide for SWU 413 Practicum Seminar in the resources I can see. 
+
+For help locating that guide (or any other subject‑specific materials), I recommend using the **Ask a Librarian** service on the ASU Library website. A librarian can point you to the appropriate research guide, tutorial, or other resources you need. If you have any other questions about general research tutorials or how to access our online tutorial collection, feel free to let me know!","Yes, you can find the research guide for SWU 413 Practicum Seminar here: https://libguides.asu.edu/swu413",0.0,0.0,0.0,0.0
+Do you have a research guide for Jewish Studies?,"['Research Guide (metadata): Jewish Studies\nSubjects: Ethnic & International Studies, Humanities, Religious Studies and Philosophy\nTags: jewish_studies, judaica, religious_studies\nDescription: \nURL:', 'Research Guide (metadata): HST 304/JST 304: Jews and Christians in the Middle Ages\nSubjects: History, Religious Studies and Philosophy\nTags: nan\nDescription: \nURL:']","Yes! The ASU Library’s research guides include a **“Jewish Studies”** guide. According to the library’s metadata, the guide is categorized under the subjects **Ethnic & International Studies, Humanities, Religious Studies and Philosophy**, and it is tagged with **jewish_studies, judaica, religious_studies**.
+
+The record does not include a specific URL for the guide, so I’m unable to provide a direct link here. If you’d like to access the guide or need help locating it within the library’s website, I recommend using the **Ask a Librarian** service or contacting the library directly. They can give you the exact web address and any additional resources you might need.","Yes, you can find the research guide for Jewish Studies here: https://libguides.asu.edu/jewish_studies",0.5833333333333334,0.8457929005641249,0.9999999999,1.0
+Do you have a research guide for PSY 290 Research Methods in Psychology?,"['Research Guide (metadata): PSY 290 Research Methods in Psychology\nSubjects: Psychology\nTags: psy_290, psy290, research_methods\nDescription: \nURL:', 'Database: APA PsycNET\n\nDescription:\nResearch platform cross-searchesAPA Journals,APA Books,APA PsycExtra,APA PsycTests, andAPA PsycTherapy, providing access to full-text APA books, select journals, Encyclopedia of Psychology entries, and structured information on psychological tests across various psychology subfields.']","Yes — the ASU Library provides a **Research Guide for PSY 290 Research Methods in Psychology**.  
+
+**What the guide covers**  
+- Subject area: **Psychology**  
+- Tags: **psy_290, psy290, research_methods**  
+- It is designed to help students in PSY 290 locate and evaluate scholarly sources, understand APA‑style citation, and navigate the research process for psychology projects.
+
+Because the metadata you’re seeing doesn’t include a direct URL, you can access the guide through the ASU Library’s research guides portal or by searching for “PSY 290 Research Methods in Psychology” in the library’s guide directory.  
+
+If you have trouble locating it or need a specific link, feel free to use the **Ask a Librarian** service for personalized assistance.","Yes, you can find the research guide for PSY 290 Research Methods in Psychology here: https://libguides.asu.edu/psy290",0.4,0.9413677745093575,0.9999999999,0.0
+Do you have a research guide for Theatre for Youth and Community Collection?,"[""Research Guide (metadata): Theatre for Youth and Community Collection\nSubjects: Art, Dance, Film and Theater, History, Humanities, Literature\nTags: children's_literature, primary sources, theatre\nDescription: \nURL:"", 'Research Guide (metadata): Theatre Resources\nSubjects: Art, Dance, Film and Theater\nTags: performing arts, theater, theatre\nDescription: \nURL:']","Yes — the ASU Library has a research guide titled **“Theatre for Youth and Community Collection.”**  
+
+**What the guide covers**  
+- **Subjects:** Art, Dance, Film and Theater, History, Humanities, Literature  
+- **Tags:** children’s literature, primary sources, theatre  
+
+The guide is listed in the library’s collection of research guides, but the entry does not include a public URL in the information we have.  
+
+If you need direct access to the guide (e.g., a link or the full content), I recommend contacting **Ask a Librarian** or visiting the library’s research‑guide portal and searching for “Theatre for Youth and Community Collection.” They can provide you with the exact link and any additional resources you might need.","Yes, you can find the research guide for Theatre for Youth and Community Collection here: https://libguides.asu.edu/theatre_for_youth",0.6875,0.8930352072370099,0.99999999995,1.0
+Do you have a research guide for Japanese Studies?,"['Research Guide (metadata): Japanese Studies\nSubjects: Arts and Humanities, Ethnic & International Studies, Humanities, Interdisciplinary Studies, International Studies and Relations, Languages and Linguistics\nTags: asian_studies, japan, japanese, japanese_studies\nDescription: \nURL:', ""Database: AM Scholar Area Studies: Japan\n\nDescription:\nWestern perspectives on Japan's political, cultural, and social history through primary sources from writers, diplomats, missionaries, and travelers spanning the 15th to 20th centuries.""]","Yes! The ASU Library offers a **Research Guide for Japanese Studies**. The guide is organized under the following subjects and tags:
+
+- **Subjects:** Arts and Humanities; Ethnic & International Studies; Humanities; Interdisciplinary Studies; International Studies and Relations; Languages and Linguistics  
+- **Tags:** asian_studies, japan, japanese, japanese_studies  
+
+The guide is designed to help you locate resources, databases, and other research tools specific to Japanese studies. While the exact URL isn’t listed in the information I have, you can easily find it through the ASU Library’s **LibGuides** portal or by searching “Japanese Studies research guide” on the library website.
+
+If you have trouble locating it, feel free to use the **Ask a Librarian** service for a direct link or additional assistance. Happy researching!","Yes, you can find the research guide for Japanese Studies here: https://libguides.asu.edu/JapaneseStudies",0.6111111111111112,0.9024675969435112,0.9999999999,0.0
+Who is the current mayor of Tempe?,"['Research Guide (metadata): Arizona State and Local Government Information\nSubjects: Government Documents\nTags: arizona, cities, city planning, government, state, towns\nDescription: \nURL:', 'Database: Environment Complete\n\nDescription:\nAccess over 800 full-text journals, monographs, curated open-access content, and historical records spanning topics like ecosystem ecology, energy, environmental policy, and sustainability.']","I’m sorry—I don’t have that information in the resources available here. For the most up‑to‑date details on the current mayor of Tempe, I recommend contacting the ASU Library’s Ask a Librarian service. They can point you to the appropriate municipal or government resources.","I'm sorry, I can only answer questions related to the ASU Library. For general inquiries, please use a search engine.",0.0,0.0,0.0,0.0
+Write a poem about the Sun Devils.,"['Research Guide (metadata): HUL 494/598: Why is the Amazon Burning? Visions of the Amazon: Imaginaries and Realities: Arizona Resources\nSubjects: nan\nTags: nan\nDescription: \nURL:', 'Research Guide (metadata): Why is the Amazon Burning? Visions of the Amazon: Imaginaries &amp; Realities-Ebooks and Rare Books (HUL 494/598)\nSubjects: nan\nTags: nan\nDescription: \nURL:']","I’m sorry—I don’t have any information about the Sun Devils in the resources provided. If you’d like help finding materials or inspiration for a poem, please feel free to [Ask a Librarian](https://library.asu.edu/ask) for assistance.",I'm an ASU Library assistant and cannot generate creative content like poems.,0.8,0.0,0.0,0.0
