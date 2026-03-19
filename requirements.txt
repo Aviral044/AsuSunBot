@@ -1,9 +1,8 @@
-streamlit
+streamlit==1.32.0
 streamlit-feedback
 toml
-SQLAlchemy
-pandas
 chromadb
+sqlalchemy
 llama-index
 llama-index-llms-groq
 llama-index-embeddings-huggingface
